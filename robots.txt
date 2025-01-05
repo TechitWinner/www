@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://techit.dailitation.xyz/sitemap.xml
